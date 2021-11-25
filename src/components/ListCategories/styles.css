@@ -1,0 +1,15 @@
+.categories {
+  width: 100%;
+}
+
+.categories ul {
+  list-style: none;
+  width: 100%;
+}
+
+.categories li {
+  cursor: pointer;
+  width: 100%;
+  background: gray;
+  padding: 16px 0;
+}
